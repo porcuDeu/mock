@@ -1,0 +1,76 @@
+{  
+   "result":{  
+      "prescrizione":{  
+         "idTransazione":"f88ef47e-29db-497e-a38a-367fcd75c2cb",
+         "idEvento":"122504740",
+         "nre":"030A04000194598",
+         "cfAssistito":"TSTSEI88A10D150Q",
+         "dsNomeCognome":"TESTGC SEI",
+         "prescrizioneFruita":"1",
+         "quotaFissa":"1.00",
+         "franchigia":"1.00",
+         "dataSpedizione":"2018-07-20 15:45:00",
+         "dataPrescrizione":"2016-09-27",
+         "idCittadino":"50039254",
+         "cdStato":"05",
+         "cdStruttura":"680020",
+         "cdSubStruttura":"322700009",
+         "userid":"VNGMMN52L62F205E",
+         "cdAslAppartenenza":"322",
+         "quesitoDiagnostico":"TEST",
+         "nomePrescrittore":"CINQUECENTOQUATTRO",
+         "cognomePrescrittore":"OPINTSISS",
+         "idPrescrittore":"PNTCQC70A01F205D",
+         "codiceMedicoPrescrittore":"47094",
+         "codiceAslPrescrizione":"030308",
+         "descrizioneAslPrescrizione":"A.S.L. DI MILANO",
+         "idClassePrioritaPrescritto":"B",
+         "flProvenienzaSiss":"S",
+         "prestazioni":{  
+            "prestazione":[  
+               {  
+                  "codicePrestazioneSiss":"088901.08",
+                  "descrizionePrestazioneSiss":"VISITA CARDIOLOGICA (CONTROLLO)",
+                  "codicePrestazioneNaz":"89013",
+                  "descrizionePrestazioneNaz":"VISITA CARDIOLOGICA DI CONTROLLO",
+                  "quantitaPrestazione":"3",
+                  "codCatalogoPrescr":"088901.08"
+               },
+               {  
+                  "codicePrestazioneSiss":"340891",
+                  "descrizionePrestazioneSiss":"DEPILAZIONE ELETTROCHIRURGICA DELLA PALPEBRA",
+                  "codicePrestazioneNaz":"0891",
+                  "descrizionePrestazioneNaz":"DEPILAZIONE ELETTROCHIRURGICA DELLA PALPEBRA",
+                  "quantitaPrestazione":"1",
+                  "notaPrestazione":"f % + d",
+                  "codCatalogoPrescr":"340891"
+               }
+            ]
+         },
+         "oscuramento":{  
+            "tipoOscuramento":[  
+               {  
+                  "idCausaleOscuramento":"10",
+                  "valoreOscuramento":"NO"
+               },
+               {  
+                  "idCausaleOscuramento":"20",
+                  "valoreOscuramento":"NO"
+               },
+               {  
+                  "idCausaleOscuramento":"30",
+                  "valoreOscuramento":"NO"
+               },
+               {  
+                  "idCausaleOscuramento":"40",
+                  "valoreOscuramento":"NO"
+               },
+               {  
+                  "idCausaleOscuramento":"50",
+                  "valoreOscuramento":"SI"
+               }
+            ]
+         }
+      }
+   }
+}
