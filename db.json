@@ -13,6 +13,14 @@
          "dataPrescrizione":"2016-09-27",
          "idCittadino":"50039254",
          "cdStato":"05",
+         "numeroNotaMef":"1000",
+         "condErogabilitaMef":"S",
+         "descCondErogabilitaMef":"SI",
+         "approprPrescrittiva":"OTTONE ERMINIO",
+         "descApproprPrescrittiva": "ERMINIO OTTONE",
+         "patologia":"OMOFAGGOTABILITA"
+         "descPatologia":"PIGLIANCULITE ACUTA"
+         "tipoAmbulatorio":"OSPEDALE"
          "cdStruttura":"680020",
          "cdSubStruttura":"322700009",
          "userid":"VNGMMN52L62F205E",
